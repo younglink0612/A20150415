@@ -4,7 +4,7 @@ class gg {
 	public static void main(String[] args){
 
 	System.out.println("AM021983 林少鏞");
-	System.out.println("AM021975 陳翌睿 ");
+	System.out.println("AM021975 陳翌睿");
 	}
 
 }
