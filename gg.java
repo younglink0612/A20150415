@@ -5,7 +5,6 @@ class gg {
 
 	System.out.println("AM021983 ªL¤Öó`");
 	System.out.println("AM021975 ³¯²ÝºÍ");
-
 	}
 
 }
